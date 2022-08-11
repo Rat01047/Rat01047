@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Rat01047
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Nurul Amin Ratul (QA @weDevs)
+- 👀 I’m interested in Software Testing & Product Management
+- 🌱 I’m currently learning Automation Testing
+- 💞️ I’m looking to collaborate on QA Processes, Automation skill growth, System Design, Product Management
+- 📫 How to reach me, ratul01047@gmail.com
 
 <!---
 Rat01047/Rat01047 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
