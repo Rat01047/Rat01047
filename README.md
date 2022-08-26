@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nurul Amin Ratul</h1>
-<h3 align="center">I am a passionate QA Engineer who also possess skills to manage projects</h3>
+<h3 align="center">I am a passionate QA Engineer with experience in Manual and Automation Testing as well Project Management/h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rat01047&label=Profile%20views&color=0e75b6&style=flat" alt="rat01047" /> </p>
 
