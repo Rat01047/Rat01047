@@ -20,7 +20,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-  LinkedIn Profile: **https://www.linkedin.com/in/nurul-amin-ratul/**
+  LinkedIn Profile: https://www.linkedin.com/in/nurul-amin-ratul/
 
 <p align="left">
 </p>
