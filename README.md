@@ -13,12 +13,16 @@
 
 - 💬 Ask me about **Project Management, QA, Software Testing Process**
 
-- 📫 How to reach me, <br>
+- 📫 How to reach me,
+  <br>
   **ratul01047@gmail.com**
-  **https://www.linkedin.com/in/nurul-amin-ratul/**
+  <br>
 
 
 <h3 align="left">Connect with me:</h3>
+  <br>
+  **https://www.linkedin.com/in/nurul-amin-ratul/**
+
 <p align="left">
 </p>
 
