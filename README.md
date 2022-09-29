@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rat01047" alt="rat01047" /></a> </p> -->
 
-- 🔭 I’m currently working on **wpERP, weBot, wp Project Manager, wpUF**
+- 🔭 I’m currently working on **Dokan, wpERP, weBot, wp Project Manager, wpUF**
 
 - 🌱 I’m currently learning **Automation**
 
@@ -13,9 +13,10 @@
 
 - 💬 Ask me about **Project Management, QA, Software Testing Process**
 
-- 📫 How to reach me **ratul01047@gmail.com**
+- 📫 How to reach me,
+  **ratul01047@gmail.com**
+  **https://www.linkedin.com/in/nurul-amin-ratul/**
 
-- ⚡ Fun fact **I think I have great public speaking capability**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
