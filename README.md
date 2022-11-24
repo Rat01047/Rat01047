@@ -13,14 +13,13 @@
 
 - 💬 Ask me about **SQA, Automation, Project Management, Software Testing Process**
 
-- 📫 How to reach me,
-  <br>
-  **ratul01047@gmail.com**
-  <br>
+- 📫 How to reach me: **ratul01047@gmail.com**
+
 
 
 <h3 align="left">Connect with me:</h3>
   LinkedIn Profile: https://www.linkedin.com/in/nurul-amin-ratul/
+  Twitter Profile: https://twitter.com/ratZzzatouille
 
 <p align="left">
 </p>
