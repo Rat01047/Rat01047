@@ -19,7 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
   LinkedIn Profile: https://www.linkedin.com/in/nurul-amin-ratul/
+  <br>
   Twitter Profile: https://twitter.com/ratZzzatouille
+  </br>
 
 <p align="left">
 </p>
