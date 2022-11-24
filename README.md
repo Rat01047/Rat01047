@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Project Management, Software Testing Process**
 
-- 💬 Ask me about **Project Management, QA, Software Testing Process**
+- 💬 Ask me about **SQA, Automation, Project Management, Software Testing Process**
 
 - 📫 How to reach me,
   <br>
