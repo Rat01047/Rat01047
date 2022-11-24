@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rat01047" alt="rat01047" /></a> </p> -->
 
-- 🔭 I’m currently working on **Dokan, WPUF, WEBOT, WP Project Manager, WPERP **
+- 🔭 I’m currently working on **Dokan, WPUF, WEBOT, WP Project Manager, WPERP**
 
 - 🌱 I’m currently learning **Automation**
 
