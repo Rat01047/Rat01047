@@ -31,11 +31,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rat01047&show_icons=true&locale=en&layout=compact" alt="rat01047" /></p>
 
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=2077&utcOffset=8)
-
