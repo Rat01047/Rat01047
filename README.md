@@ -37,5 +37,5 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rat01047&" alt="Rat01047"/></p>
 
 
-<p ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rat01047&show_icons=true&locale=en&layout=compact" alt="rat01047"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rat01047&show_icons=true&locale=en&layout=compact" alt="rat01047"/></p>
 
