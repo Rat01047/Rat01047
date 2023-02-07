@@ -8,15 +8,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rat01047&label=Profile%20views&color=0e75b6&style=flat" alt="rat01047" /> </p>
 
 
-- 🔭 I’m currently working on **Dokan, WPUF, WEBOT, WP Project Manager, WPERP**
+- 🔭 I’m currently working on **WPUF, WEBOT, WP Project Manager, WPERP, WEDOCS, Dokan**
 
-- 🌱 I’m currently learning **Automation**
+- 🌱 I’m currently working on **Automation** using **Playwright**
 
-- 👯 I’m looking to collaborate on **Project Management, Software Testing Process**
+- 👯 I’m looking to collaborate on **Software Automation Testing, Software Testing Process, Project Management**
 
 - 💬 Ask me about **SQA, Automation, SDET, Project Management, Software Testing Process**
 
-- 📫 How to reach me **ratul01047@gmail.com**
+- 📫 How to reach me: Email me @, **ratul01047@gmail.com**
 
 - ⚡ Favourite Quote **'_I belong to the warrior in whom the old ways have joined the new._'**
 
