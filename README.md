@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rat01047&label=Profile%20views&color=0e75b6&style=flat" alt="rat01047" /> </p>
 
 
-- 🔭 I’m currently working on **WPUF, WEBOT, WP Project Manager, WPERP, WEDOCS, Dokan**
+- 🔭 I’m currently working on **WEDOCS, FlyWP, WPUF, weMail, Subscribe2, WPERP, WEBOT, Promo-Manager, Dokan, WP Project Manager...**
 
 - 🌱 I’m currently working on **Automation** using **Playwright**
 
