@@ -31,11 +31,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rat01047" alt="rat01047" /></a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rat01047&show_icons=true&locale=en" alt="rat01047" /></p>
 
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rat01047&" alt="Rat01047"/></p>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rat01047&show_icons=true&locale=en&layout=compact" alt="rat01047"/></p>
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rat01047&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rat01047&theme=monokai) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rat01047&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rat01047&theme=monokai) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rat01047&theme=monokai&utcOffset=6)  
