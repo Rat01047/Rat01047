@@ -7,7 +7,7 @@
 ## 🚀 About Me
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on **WEDOCS, FlyWP, WPUF, weMail, Subscribe2, WPERP, WEBOT, Promo-Manager, Dokan, CartPulse, WP Project Manager...**
+- 🔭 I’m currently working on **FlyWP, weMail, WPUF, WEDOCS, WPERP, Dokan, CartPulse, WP Project Manager, Subscribe2, WEBOT, Promo-Manager...**
 
 - 🌱 I’m currently working on **Automation** using **Playwright**
 
