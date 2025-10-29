@@ -26,6 +26,9 @@
 </div></td></tr></table>
 
 ---
+[![An image of @rat01047's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rat01047)](https://holopin.io/@rat01047)
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
