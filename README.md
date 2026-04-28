@@ -4,9 +4,11 @@
 
 ---
 
-### Hi there 👋🏻 I'm Ratul!
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Rat01047.Rat01047)
+## 🚀 About Me
+<table><tr><td valign="top" width="50%">
+
+  ### Hi there 👋🏻 I'm Ratul!
 
 - 🔭 I'm currently working as an **SQA Engineer** at [weDevs](https://wedevs.com/) on **FlyWP, weMail, Dokan, WPUF, WP Project Manager** and more.
 - 🌱 Currently leveling up: **Test Architecture & Automation Frameworks**
@@ -14,6 +16,14 @@
 - 💬 Ask me about: **Playwright, TypeScript, API Testing, SDET, Software Testing Process**
 - 📫 Reach me at: **ratul01047@gmail.com**
 - ⚡ Favourite Quote: *'I belong to the warrior in whom the old ways have joined the new.'*
+
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 100%" />
+</div>
+
+</td></tr></table>
 
 ---
 
