@@ -10,7 +10,7 @@
 
   ### Hi there 👋🏻 I'm Ratul!
 
-- 🔭 I'm currently working as an **SQA Engineer** at [weDevs](https://wedevs.com/) on **FlyWP, weMail, Dokan, WPUF, WP Project Manager** and more.
+- 🔭 I'm currently working as an **SQA Engineer** at [weDevs](https://wedevs.com/) on **FlyWP, FlyCommerce, WPUF, weDocs, WP ERP, WP Project Manager, Dokan, CartPilot, FeedPulse, weBot, weMail, Subscribe2, and Promo-Manager** and more.
 - 🌱 Currently leveling up: **Test Architecture & Automation Frameworks**
 - 🚀 I go beyond QA — I ship features too.
 - 💬 Ask me about: **Playwright, TypeScript, API Testing, SDET, Software Testing Process**
